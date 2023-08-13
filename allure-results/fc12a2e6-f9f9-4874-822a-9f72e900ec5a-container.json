@@ -1,0 +1,1 @@
+{"uuid":"fc12a2e6-f9f9-4874-822a-9f72e900ec5a","name":"TestScripts.E2ETest","children":["8c58bf31-67a4-4a77-bd2d-6f89d5f03ada"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1691913414386,"stop":1691913415379}],"afters":[],"links":[],"start":1691913414369,"stop":1691913419486}
